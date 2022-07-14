@@ -1,7 +1,7 @@
 import java.util.*;
 class Example{
 	public static void main(String[] args){
-        	int n = 100, int i, sum=0;
+        	int i, n = 100, sum=0;
 		for(i=0;i<=n;i++){
 			sum = sum + i;
 		}
